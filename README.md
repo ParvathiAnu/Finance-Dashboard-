@@ -1,6 +1,6 @@
 # Finance-Dashboard-
 Overview
-The Finance Dashboard is a web application that visualizes financial data using data sourced from Alpha Vantage API. It provides interactive charts and indicators such as Simple Moving Averages (SMA) and Linear Regression Lines to analyze stock performance over time.
+The Finance Dashboard is a Dashboard that visualizes financial data using data sourced from Alpha Vantage API. It provides interactive charts and indicators such as Simple Moving Averages (SMA) and Linear Regression Lines to analyze stock performance over time.
 
 Features
 Interactive Charts: Display candlestick charts with indicators overlayed.
