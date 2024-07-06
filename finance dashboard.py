@@ -7,7 +7,7 @@ from bokeh.plotting import figure
 from bokeh.layouts import column, row
 from bokeh.models import TextInput, Button, DatePicker, MultiChoice
 
-API_KEY = 'TT992S59LCHVQDCT'
+API_KEY = 'T'
 
 def load_data(ticker1, ticker2, start, end):
     ts = TimeSeries(key=API_KEY, output_format='pandas')
